@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ShiftControl Documentation](README.md)
+* [Introduction](README.md)
